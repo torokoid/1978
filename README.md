@@ -148,8 +148,8 @@ screen and (orientation: landscape) {
 <a href="20190607_065.JPG" data-lightbox="abc"><img src="20190607_065.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190607_066.JPG" data-lightbox="abc"><img src="20190607_066.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190607_067.JPG" data-lightbox="abc"><img src="20190607_067.JPG" alt="サンプル画像" width="900" /></a>
-
-<p><span class="yellow">提供者不明、連絡ください。</span></p>
+<br>
+<p><span class="yellow">ここから提供者不明、誰か〜連絡ください〜</span></p>
 <a href="20190607_068.JPG" data-lightbox="abc"><img src="20190607_068.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190607_069.JPG" data-lightbox="abc"><img src="20190607_069.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190607_070.JPG" data-lightbox="abc"><img src="20190607_070.JPG" alt="サンプル画像" width="900" /></a>
